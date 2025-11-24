@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hanjun Du"
-description              : "Undergraduate at SJTU  Department of Automation"
+title                    : "Hanjun (Elvin) Du"
+description              : "Senior Undergraduate at SJTU  Department of Automation"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "duhanjun2022@gmail.som"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
