@@ -19,45 +19,32 @@ redirect_from:
 
 # 👋 Hi!
 
-My name is Hanjun Du, and I am a senior year Automation undergraduate student at SJTU, advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). 
+My name is Hanjun Du, and I am a senior year undergraduate student in Automation at SJTU, advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
+
+My primary research interest lies in the intersection of vision, language, and machine learning. Particularly, I have worked on medical image segmentation, 3D reconstruction and registration. During my research internship at UCLA, I worked on online reinforcement learning pipelines and vision-language-action models.
+
+My long-term goal is to build intelligent systems that can perceive, reason, and act effectively in complex real world environments.
 
 # 🔎 Current Research Topics
 
-- Reinforcement Learning: Robust RL, offline/online RL, In-Context Learning 
-- Large Language Models: RLHF, Safety, Agentic AI
-
+- Embodied AI & Reinforcement Learning: Online RL Pipelines, Vision-Language-Action Models, Embodied Manipulation
+- Medical Imaging & Surgical Intelligence: Image segmentation, 3D Reconstruction, Deformable Registration
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *2025.11*: &nbsp;🎉🎉 I received the Dennis C.C.Chan Scholarship ($2100), awarded to 6 SJTU undergraduates per year.
+- *2025.07*: &nbsp;🎉🎉 I started my research internship at UCLA, working on online reinforcement learning pipelines and vision-language-action models for embodied AI.
+- *2025.01*: &nbsp;🎉🎉 I was selected as one of the 64 contestants for Super Brain Season 12, a TV show about mental abilities competitions.
+- *2024.06*: &nbsp;🎉🎉 I started my research at Shanghai Jiao Tong University’s Institute of Medical Robotics under the supervision of Prof. Yun Gu.
+- *2023.12*: &nbsp;🎉🎉 I received the A-level Merit Scholarship at Shanghai Jiao Tong University (Top 1% SJTU). 
+- *2023.09*: &nbsp;🎉🎉 I received the Outstanding Student Award at Shanghai Jiao Tong University (Top 5% SJTU).
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.06 - 2026.06 (expected)*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), US.
