@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Hi!
 
-My name is Hanjun Du, and I am a senior year Automation undergraduate student at SJTU, advised by [Prof. Yun Gu]([https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=en](https://imr.sjtu.edu.cn/en/po_facultyv/531.html) . 
+My name is Hanjun Du, and I am a senior year Automation undergraduate student at SJTU, advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). 
 
 # 🔎 Current Research Topics
 
