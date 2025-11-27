@@ -40,10 +40,11 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 - *2023.09*: &nbsp;🎉🎉 I received the Outstanding Student Award at Shanghai Jiao Tong University **(Top 5% SJTU)**.
 
 # 📖 Educations
-- *2022.06 - 2026.06 (expected)*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
+- *2022.08 - 2026.06 (expected)*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
 
 # 💻 Internships
-- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), US.
+- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, US.
+- *2024.06 - now*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, CN.
 
 # 🎖 Honors and Awards
 - *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6/11000 selected in SJTU**, $2100) 
