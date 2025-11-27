@@ -56,3 +56,7 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 - *2023.11* Third Prize of the China Undergraduate Mathematical Contest in Modeling, Shanghai
 - *2023.09* Outstanding Student Award, Shanghai Jiao Tong University **(Top 5% SJTU)**
 - *2023.09* Second Prize of the Mathematical Modeling Elite League, Shanshu Cup (**Top 12.2%** of all teams)
+
+<div style="width: 200px; height: 200px; margin-top: 20px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R6MW_DBY2fl2O795znHmDzOYi6qR9CXUKre5ggrWNYQ"></script>
+</div>
