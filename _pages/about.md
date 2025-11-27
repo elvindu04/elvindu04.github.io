@@ -58,5 +58,5 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 - *2023.09* Second Prize of the Mathematical Modeling Elite League, Shanshu Cup (**Top 12.2%** of all teams)
 
 <div style="width: 200px; height: 200px; margin-top: 20px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R6MW_DBY2fl2O795znHmDzOYi6qR9CXUKre5ggrWNYQ"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AjkWlgxP0a_HX85QPCd2Y-SxwGBaZPJDdrQDZos33jw"></script>
 </div>
