@@ -21,7 +21,7 @@ redirect_from:
 
 My name is Hanjun Du, and I am a senior year undergraduate student in Automation at SJTU, advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
 
-My primary research interest lies in the intersection of vision, language, and machine learning. Particularly, I have worked on medical image segmentation, 3D reconstruction and registration. During my research internship at UCLA, I worked on online reinforcement learning pipelines and vision-language-action models.
+My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in Institute of Medical Robotics of SJTU. During my research internship at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
 
 My long-term goal is to build intelligent systems that can perceive, reason, and act effectively in complex real world environments.
 
