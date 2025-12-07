@@ -55,7 +55,7 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 - *2023.12* Shaoqiu Scholarship, Shanghai Jiao Tong University (**Top 1% in major**, $1300)
 - *2023.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
 - *2023.11* Third Prize of the China Undergraduate Mathematical Contest in Modeling, Shanghai
-- *2023.09* Outstanding Student Award, Shanghai Jiao Tong University **(Top 5% SJTU)**
+- *2023.09* **Outstanding Student Award**, Shanghai Jiao Tong University **(Top 5% SJTU)**
 - *2023.09* Second Prize of the Mathematical Modeling Elite League, Shanshu Cup (**Top 12.2%** of all teams)
 
 <div style="width: 200px; height: 200px; margin-top: 20px;">
