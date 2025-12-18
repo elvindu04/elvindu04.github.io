@@ -47,6 +47,8 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 - *2024.06 - now*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, CN.
 
 # 🎖 Honors and Awards
+- *2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
+- *2025.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
 - *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6/11000 selected in SJTU**, $2100) 
 - *2024.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
 - *2024.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
