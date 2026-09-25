@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Hi!
 
-My name is Hanjun Du, and I am a senior year undergraduate student in Automation at SJTU, advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
+My name is Hanjun Du, and I'm a first year Master’s student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/) (specialized in machine learning). I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
 
 My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in [Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/) of SJTU. During my research internship at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
 
@@ -32,24 +32,27 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 
 # 🔥 News
 
-- *2025.11*: &nbsp;🎉🎉 I received the Dennis C.C.Chan Scholarship ($2100), awarded to **6 SJTU undergraduates per year**.
+- *2026.06*: &nbsp;🎉🎉 I was granted as the Outstanding Graduate of Shanghai Jiao Tong University.
+- *2025.11*: &nbsp;🎉🎉 I received the Dennis C.C.Chan Scholarship ($2100), awarded to **6 recipients annually**.
 - *2025.07*: &nbsp;🎉🎉 I started my research internship at UCLA, working on online reinforcement learning pipelines and vision-language-action models for embodied AI.
-- *2025.01*: &nbsp;🎉🎉 I was selected as one of the 64 contestants for **Super Brain Season 12**, a TV show about mental abilities competitions.
+- *2025.01*: &nbsp;🎉🎉 I was selected as one of the 64 contestants of China's top 1 intellectual game show, [**Super Brain Season 12**](https://en.wikipedia.org/wiki/The_Brain_(game_show)).
 - *2024.06*: &nbsp;🎉🎉 I started my research at Shanghai Jiao Tong University’s Institute of Medical Robotics under the supervision of Prof. Yun Gu.
 - *2023.12*: &nbsp;🎉🎉 I received the A-level Merit Scholarship at Shanghai Jiao Tong University **(Top 1% SJTU)**. 
 - *2023.09*: &nbsp;🎉🎉 I received the Outstanding Student Award at Shanghai Jiao Tong University **(Top 5% SJTU)**.
 
 # 📖 Educations
-- *2022.08 - 2026.06 (expected)*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
+- *2026.08 - Present*, Georgia Institute of Technology, Master of Science in Computer Science.
+- *2022.08 - 2026.06*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
 
 # 💻 Internships
-- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, US.
-- *2024.06 - now*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, CN.
+- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, CA.
+- *2024.06 - 2026.06*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, China.
 
 # 🎖 Honors and Awards
+- *2026.06* Outstanding Graduate, Shanghai Jiao Tong University
 - *2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
 - *2025.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
-- *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6/11000 selected in SJTU**, $2100) 
+- *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6 recipients annually**, $2100) 
 - *2024.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
 - *2024.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
 - *2024.12* Shangjun Scholarship, Shanghai Jiao Tong University (Top 10% in major, $700)
