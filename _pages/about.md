@@ -25,6 +25,16 @@ My primary research interest lies in the intersection of vision, language, and i
 
 My long-term goal is to build intelligent systems that can perceive, reason, and act effectively in complex real world environments.
 
+# 📖 Educations
+
+- *2026.08 - Present*, Georgia Institute of Technology, Master of Science in Computer Science.
+- *2022.08 - 2026.06*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
+
+# 💻 Internships
+
+- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, CA.
+- *2024.06 - 2026.06*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, China.
+
 # 🔎 Current Research Topics
 
 - Embodied AI & Reinforcement Learning: Online RL Pipelines, Vision-Language-Action Models, Embodied Manipulation
@@ -40,15 +50,8 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 - *2023.12*: &nbsp;🎉🎉 I received the A-level Merit Scholarship at Shanghai Jiao Tong University **(Top 1% SJTU)**. 
 - *2023.09*: &nbsp;🎉🎉 I received the Outstanding Student Award at Shanghai Jiao Tong University **(Top 5% SJTU)**.
 
-# 📖 Educations
-- *2026.08 - Present*, Georgia Institute of Technology, Master of Science in Computer Science.
-- *2022.08 - 2026.06*, Shanghai Jiao Tong University (SJTU), Bachelor of Engineering (Honorary degree) in Automation.
-
-# 💻 Internships
-- *2025.07 - 2025.10*, [UCLA PlusLab](https://violetpeng.github.io/), Los Angeles, CA.
-- *2024.06 - 2026.06*, [SJTU Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/), Shanghai, China.
-
 # 🎖 Honors and Awards
+
 - *2026.06* Outstanding Graduate, Shanghai Jiao Tong University
 - *2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
 - *2025.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
