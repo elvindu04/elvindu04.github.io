@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanjun (Elvin) Du"
-description              : "Senior Undergraduate  Department of Automation"
+description              : "Master of Science Computer Science"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanjun (Elvin) Du"
   avatar           : "images/avatar.jpg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Georgia Institute of Technology"
+  location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "duhanjun2022@gmail.som"
+  email            : "hdu301@gatech.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
