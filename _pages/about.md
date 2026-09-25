@@ -21,7 +21,7 @@ redirect_from:
 
 I'm Hanjun Du, a first year Master’s student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/) (specialized in machine learning). I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
 
-My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in [Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/) of SJTU. During my research internship at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
+My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in [Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/) of SJTU. During my research internship in [PlusLab](https://violetpeng.github.io/) at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
 
 My long-term goal is to build intelligent systems that can perceive, reason, and act effectively in complex real world environments.
 
@@ -50,15 +50,15 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 
 # 🎖 Honors and Awards
 - *2026.06* Outstanding Graduate, Shanghai Jiao Tong University
-- *2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
+- *2025.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
 - *2025.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
-- *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6 recipients annually**, $2100) 
-- *2024.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
+- *2025.11* Dennis C.C.Chan Scholarship, Shanghai Jiao Tong University (**6 recipients annually**) 
+- *2024.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
 - *2024.12* C-level Merit Scholarship, Shanghai Jiao Tong University (Top 10% in major)
-- *2024.12* Shangjun Scholarship, Shanghai Jiao Tong University (Top 10% in major, $700)
+- *2024.12* Shangjun Scholarship, Shanghai Jiao Tong University (Top 10% in major)
 - *2023.12* **A-level Merit Scholarship**, Shanghai Jiao Tong University **(Top 1% SJTU)**
-- *2023.12* Shaoqiu Scholarship, Shanghai Jiao Tong University (**Top 1% in major**, $1300)
-- *2023.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU, $700)
+- *2023.12* Shaoqiu Scholarship, Shanghai Jiao Tong University (**Top 1% in major**)
+- *2023.12* Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (Top 5% SJTU)
 - *2023.11* Third Prize of the China Undergraduate Mathematical Contest in Modeling, Shanghai
 - *2023.09* **Outstanding Student Award**, Shanghai Jiao Tong University **(Top 5% SJTU)**
 - *2023.09* Second Prize of the Mathematical Modeling Elite League, Shanshu Cup (**Top 12.2%** of all teams)
