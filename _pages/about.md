@@ -43,12 +43,10 @@ My long-term goal is to build intelligent systems that can perceive, reason, and
 # 🔥 News
 
 - *2026.06*: &nbsp;🎉🎉 I was granted as the Outstanding Graduate of Shanghai Jiao Tong University.
-- *2025.11*: &nbsp;🎉🎉 I received the Dennis C.C.Chan Scholarship ($2100), awarded to **6 recipients annually**.
 - *2025.07*: &nbsp;🎉🎉 I started my research internship at UCLA, working on online reinforcement learning pipelines and vision-language-action models for embodied AI.
 - *2025.01*: &nbsp;🎉🎉 I was selected as one of the 64 contestants of China's top 1 intellectual game show, [**Super Brain Season 12**](https://en.wikipedia.org/wiki/The_Brain_(game_show)).
 - *2024.06*: &nbsp;🎉🎉 I started my research at Shanghai Jiao Tong University’s Institute of Medical Robotics under the supervision of Prof. Yun Gu.
 - *2023.12*: &nbsp;🎉🎉 I received the A-level Merit Scholarship at Shanghai Jiao Tong University **(Top 1% SJTU)**. 
-- *2023.09*: &nbsp;🎉🎉 I received the Outstanding Student Award at Shanghai Jiao Tong University **(Top 5% SJTU)**.
 
 # 🎖 Honors and Awards
 
