@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Hi!
 
-My name is Hanjun Du, and I'm a first year Master’s student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/) (specialized in machine learning). I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
+I'm Hanjun Du, a first year Master’s student in Computer Science at [Georgia Institute of Technology](https://scs.gatech.edu/) (specialized in machine learning). I received my B.E. in Automation at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). I am also fortunate to have worked with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://violetpeng.github.io/) as a research intern at UCLA.
 
 My primary research interest lies in the intersection of vision, language, and intelligent systems. Particularly, I have worked on medical image processing, 3D reconstruction and registration in [Institute of Medical Robotics](https://imr.sjtu.edu.cn/en/) of SJTU. During my research internship at UCLA, I worked on online reinforcement learning pipelines and Vision-Language-Action models, focusing on the generalization of Embodied Intelligence.
 
